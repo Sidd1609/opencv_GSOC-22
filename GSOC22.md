@@ -3,7 +3,7 @@
     <br>
     <b> 
     <p>
-    Adding support of Source Code Related Metrics to GrimoireLab for <a href="https://github.com/chaoss">CHAOSS</a> Project
+    Adding support of Source Code Related Metrics to OpenCV for <a href="https://github.com/opencv/opencv/tree/master">OpenCV</a> Project
     </p>
     </b>
 </div>
