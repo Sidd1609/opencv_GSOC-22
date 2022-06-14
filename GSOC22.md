@@ -13,13 +13,12 @@
 	<a href="#-project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp;
     <a href="#-pull-requests--issues">Pull Requests & Issues</a>&nbsp;&nbsp;&nbsp;
     <a href="#-weekly-summary">Weekly Summary</a>&nbsp;&nbsp;&nbsp;
-	<a href="#-would-like-to-sync">Would like to sync?</a>&nbsp;&nbsp;&nbsp;
     <a href="#-links">Links</a>
     </code>
 </p>
 
 <p align="center">
-	<b> <sub>Check out my <a href="https://inishchith.github.io/blog"> <code>blog</code> </a> or follow me on <a href="https://twitter.com/inishchith"> <code>Twitter</code> </a> for weekly updates.</sub></b>
+	<b> <sub>Check out my <a href=""> <code>blog</code> </a> or follow me on <a href=""> <code>GitHub</code> </a> for weekly updates.</sub></b>
 </p>
 <br>
 
